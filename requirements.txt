@@ -1,0 +1,5 @@
+aiosqlite
+PyYAML
+regex
+pytest
+pytest-asyncio
