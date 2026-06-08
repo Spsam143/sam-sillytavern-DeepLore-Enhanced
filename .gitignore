@@ -56,3 +56,4 @@
 # Wiki
 !wiki/
 !wiki/**
+__pycache__/
